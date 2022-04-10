@@ -1,4 +1,4 @@
-# Salve! 👋 neu nome é Hugo, tenho 16 anos e estou estudando para me tornar um Dev Back-End.
+# Salve! 👋 meu nome é Hugo, tenho 16 anos e estou estudando para me tornar um Dev Back-End.
 
 - 🔭 Estudando:
   - c++
