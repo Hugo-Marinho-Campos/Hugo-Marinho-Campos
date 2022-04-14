@@ -1,8 +1,11 @@
-# Salve! 👋 meu nome é Hugo, tenho 16 anos e estou estudando para me tornar um Dev Back-End.
+# Salve! 👋 meu nome é Hugo, tenho 16 anos.
 
 - 🔭 Estudando:
-  - c++
+  - C++
   - Node.JS
+  - Express
+  - React Native
+  - PostgreSQL
 
 <div align="center">
   <a href="https://github.com/Hugo-Marinho-Campos">
