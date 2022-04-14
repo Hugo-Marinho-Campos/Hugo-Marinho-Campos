@@ -3,8 +3,8 @@
 - 🔭 Estudando:
   - C++
   - Node.JS
-  - Express
-  - React Native
+    - Express
+    - React Native
   - PostgreSQL
 
 <div align="center">
