@@ -1,10 +1,10 @@
 # Salve! 👋 meu nome é Hugo, tenho 16 anos.
 
 - 🔭 Estudando:
-  - C++
+  - JavaScript
+  - TypeScript
   - Node.JS
     - Express
-    - React Native
   - PostgreSQL
 
 <div align="center">
