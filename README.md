@@ -8,10 +8,10 @@
   - PostgreSQL
 
 <div align="center">
-  <a href="https://github.com/Hugo-Marinho-Campos">
+  <a href="https://github.com/HugoMarinn">
     <!-- Langs -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugo-Marinho-Campos&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Marinho-Campos&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoMarinn&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMarinn-Campos&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
  
 <h2>Techs</h2>
@@ -28,4 +28,4 @@
  
 ##
 
-![Snake animation](https://github.com/Hugo-Marinho-Campos/Hugo-Marinho-Campos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HugoMarinn/HugoMarinn/blob/output/github-contribution-grid-snake.svg)
