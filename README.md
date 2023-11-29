@@ -1,4 +1,4 @@
-# Salve! 👋 meu nome é Hugo, tenho 17 anos.
+# 👋 meu nome é Hugo, tenho 18 anos.
 
 - 🔭 Estudando:
   - JavaScript
